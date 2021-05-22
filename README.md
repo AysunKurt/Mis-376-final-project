@@ -1,4 +1,4 @@
-Impact Of Government-imposed Closure Measures On Number Of Cases
+Impact Of Government-imposed Closure Measures On Number Of Covid-19 Cases
 
 In this project, I will examine the effect of full, partial and special case closures applied in Turkey during the Covid-19 pandemic on the number of cases. 
 I will convey the understanding of closure of Turkey and define these types of closure. I will also consider before and after these closure processes and 
